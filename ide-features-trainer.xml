@@ -14,7 +14,7 @@
         <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
         <entry key="Collapse" value="PASSED" />
         <entry key="Comment Line" value="PASSED" />
-        <entry key="Completion with Tab" value="NOT_PASSED" />
+        <entry key="Completion with Tab" value="PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
         <entry key="Duplicate" value="PASSED" />
         <entry key="EditorBasics.CommentLine" value="NOT_PASSED" />
@@ -29,10 +29,10 @@
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="PASSED" />
-        <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
-        <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
+        <entry key="Refactorings.ExtractMethod" value="PASSED" />
+        <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
         <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
-        <entry key="Refactorings.Rename" value="NOT_PASSED" />
+        <entry key="Refactorings.Rename" value="PASSED" />
         <entry key="Select" value="PASSED" />
         <entry key="Smart Type Completion" value="PASSED" />
         <entry key="Statement Completion" value="PASSED" />
@@ -101,8 +101,8 @@
         <entry key="Completion with Tab">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1558781653566" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="32824" />
             </StatisticData>
           </value>
         </entry>
@@ -143,6 +143,38 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="21885" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractMethod">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="8254" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.ExtractVariable/Field">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="15608" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.RefactoringBasics">
+          <value>
+            <StatisticData>
+              <option name="state" value="STARTED" />
+              <option name="timestamp" value="1558781792868" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.Rename">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="60717" />
             </StatisticData>
           </value>
         </entry>
