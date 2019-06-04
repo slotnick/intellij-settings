@@ -1,6 +1,24 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
 </keymap>
