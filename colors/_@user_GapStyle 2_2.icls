@@ -1,15 +1,11 @@
 <scheme name="_@user_GapStyle 2.2" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-11T18:47:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-05-11T19:01:17</property>
+    <property name="modified">2019-08-25T11:10:14</property>
     <property name="originalScheme">GapStyle 2.2</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="LINE_NUMBERS_COLOR" value="888888" />
@@ -1287,7 +1283,6 @@
         <option name="FOREGROUND" value="cfd3" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808081" />
@@ -1350,7 +1345,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
         <option name="BACKGROUND" value="2f4830" />

@@ -4,14 +4,12 @@
     <property name="created">2019-05-11T18:47:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-05-11T19:01:17</property>
+    <property name="modified">2019-08-25T11:10:14</property>
     <property name="originalScheme">Eclipse - Dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="9" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
@@ -230,7 +228,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />

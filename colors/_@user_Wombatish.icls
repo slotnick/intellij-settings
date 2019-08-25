@@ -1,15 +1,11 @@
 <scheme name="_@user_Wombatish" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-11T18:47:20</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2019-05-11T19:01:17</property>
+    <property name="modified">2019-08-25T11:10:14</property>
     <property name="originalScheme">Wombatish</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <attributes>
     <option name="CSS.FUNCTION">
       <value>
