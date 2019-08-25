@@ -3,7 +3,7 @@
     <property name="created">2019-08-25T12:59:00</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2019.2.1.0.0</property>
-    <property name="modified">2019-08-25T13:15:11</property>
+    <property name="modified">2019-08-25T13:36:23</property>
     <property name="originalScheme">_@user_Night Owl Carbon</property>
   </metaInfo>
   <colors>
@@ -2745,7 +2745,7 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="f7b6a0" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -3760,7 +3760,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b71c1c" />
+        <option name="FOREGROUND" value="dc6a6d" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
