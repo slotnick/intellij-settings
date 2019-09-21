@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../cdk/src/common/utils/boto_utils.py'" />
-    <option name="defaultScopeName" value="File '.../cdk/src/common/utils/boto_utils.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../cdk/src/common/utils/boto_utils.py'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
   </component>
 </application>
