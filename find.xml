@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="customScope" value="Project 'okapi3-infra'" />
+    <option name="defaultScopeName" value="Project 'okapi3-infra'" />
+    <option name="SEARCH_SCOPE" value="Project 'okapi3-infra'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
