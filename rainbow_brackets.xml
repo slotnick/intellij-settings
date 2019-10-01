@@ -2,9 +2,9 @@
   <component name="RainbowSettings">
     <option name="customNotifyShowed" value="true" />
     <option name="enableRainbowAngleBrackets" value="false" />
-    <option name="enableRainbowRoundBrackets" value="false" />
     <option name="enableRainbowSquareBrackets" value="false" />
     <option name="enableRainbowSquigglyBrackets" value="false" />
-    <option name="version" value="5.22" />
+    <option name="pressAnyKeyToRemoveTheHighlightingEffects" value="true" />
+    <option name="version" value="5.23" />
   </component>
 </application>
