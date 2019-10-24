@@ -4,6 +4,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="falcon" type="PLAIN_TEXT" />
+      <mapping pattern="additional_docker_config" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx_plus_common" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
