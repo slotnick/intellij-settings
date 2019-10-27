@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../cdk/src/common/utils/cdk_utils.py'" />
-    <option name="defaultScopeName" value="File '.../cdk/src/common/utils/cdk_utils.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../cdk/src/common/utils/cdk_utils.py'" />
+    <option name="customScope" value="File '.../cdk/src/apps/okapi_app.py'" />
+    <option name="defaultScopeName" value="File '.../cdk/src/apps/okapi_app.py'" />
+    <option name="SEARCH_SCOPE" value="File '.../cdk/src/apps/okapi_app.py'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
