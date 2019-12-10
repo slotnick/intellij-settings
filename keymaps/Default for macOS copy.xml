@@ -15,15 +15,6 @@
   <action id="DisableInspection">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta minus" />
-  </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="meta equals" />
-  </action>
-  <action id="EditorResetFontSize">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
