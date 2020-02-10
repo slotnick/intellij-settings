@@ -145,6 +145,8 @@
         <option value="object.node" />
         <option value="object.__getitem__" />
         <option value="list.policy_document" />
+        <option value="profile" />
+        <option value="boto3.resources.base.ServiceResource.Object" />
       </list>
     </option>
   </inspection_tool>
