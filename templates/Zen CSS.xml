@@ -1457,9 +1457,6 @@
   <template name="tt:c" value="text-transform:capitalize;" description="text-transform:capitalize;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="tt:u" value="text-transform:uppercase;" description="text-transform:uppercase;" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
   <template name="tt:l" value="text-transform:lowercase;" description="text-transform:lowercase;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
