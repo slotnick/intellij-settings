@@ -147,6 +147,7 @@
         <option value="list.policy_document" />
         <option value="profile" />
         <option value="boto3.resources.base.ServiceResource.Object" />
+        <option value="stacks.testing.producer.base.test_producer_container_definition.TestProducerContainerDefinition._container_definition" />
       </list>
     </option>
   </inspection_tool>
