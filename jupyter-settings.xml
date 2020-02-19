@@ -1,0 +1,7 @@
+<application>
+  <component name="JupyterSettings">
+    <option name="previewFontSize" value="8" />
+    <option name="showSourcesInPreview" value="false" />
+    <option name="sourceCodeLineSpan" value="0" />
+  </component>
+</application>
