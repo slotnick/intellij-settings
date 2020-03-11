@@ -206,6 +206,13 @@
   </inspection_tool>
   <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredIdentifiers">
+      <list>
+        <option value="autobot.deployers.base_deployer.smoke_tests" />
+      </list>
+    </option>
+  </inspection_tool>
   <inspection_tool class="RedundantSuppression" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReservedWordUsedAsNameJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReturnFromFinallyBlockJS" enabled="false" level="WARNING" enabled_by_default="false" />
