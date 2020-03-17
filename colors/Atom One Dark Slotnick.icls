@@ -3,7 +3,7 @@
     <property name="created">2020-03-17T14:35:15</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-03-17T14:38:11</property>
+    <property name="modified">2020-03-17T15:57:38</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <colors>
@@ -816,7 +816,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="597f5f" />
+        <option name="BACKGROUND" value="39573f" />
       </value>
     </option>
     <option name="Enum name">
