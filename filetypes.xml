@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cdk-profile-plugin.js" type="JavaScript" />
+      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="falcon" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
