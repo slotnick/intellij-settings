@@ -8,6 +8,7 @@
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="additional_docker_config" type="PLAIN_TEXT" />
+      <mapping pattern="pyenv_bash_rc" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx_plus_common" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
