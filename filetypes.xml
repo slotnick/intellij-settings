@@ -12,6 +12,7 @@
       <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="additional_docker_config" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx_plus_common" type="PLAIN_TEXT" />
+      <mapping ext="logrotate" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
