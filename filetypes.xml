@@ -2,9 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cdk-profile-plugin.js" type="JavaScript" />
+      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="ec2_user_crontab" type="PLAIN_TEXT" />
-      <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="falcon" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -16,17 +16,17 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="common" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="inc" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
