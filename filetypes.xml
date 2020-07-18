@@ -19,6 +19,7 @@
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="common" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="start" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
