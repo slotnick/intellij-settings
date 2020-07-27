@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="cdk-profile-plugin.js" type="JavaScript" />
+      <mapping pattern="common_dockerfile_footer" type="PLAIN_TEXT" />
       <mapping pattern="base" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_nginx_plus_common" type="PLAIN_TEXT" />
       <mapping pattern="docker" type="PLAIN_TEXT" />
+      <mapping pattern="common_dockerfile_header" type="PLAIN_TEXT" />
       <mapping pattern="pyenv_bash_rc" type="PLAIN_TEXT" />
       <mapping pattern="falcon" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
