@@ -9,6 +9,7 @@
       <mapping pattern="common_dockerfile_header" type="PLAIN_TEXT" />
       <mapping pattern="pyenv_bash_rc" type="PLAIN_TEXT" />
       <mapping pattern="falcon" type="PLAIN_TEXT" />
+      <mapping pattern="common_vhost" type="PLAIN_TEXT" />
       <mapping pattern=".zshrc" type="PLAIN_TEXT" />
       <mapping pattern="additional_docker_config" type="PLAIN_TEXT" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
