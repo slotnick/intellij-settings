@@ -25,6 +25,7 @@
       <mapping ext="start" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="yank" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
