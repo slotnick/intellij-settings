@@ -234,7 +234,6 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="autobot.deployers.base_deployer.smoke_tests" />
-        <option value="stacks.testing.producer.locust_test_container_definition.LocustTestContainerDefinition._target_name_list" />
       </list>
     </option>
   </inspection_tool>
