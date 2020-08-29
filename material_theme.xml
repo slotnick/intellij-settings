@@ -24,6 +24,7 @@
     <option name="useMaterialFont2" value="true" />
     <option name="useMaterialWallpapers" value="true" />
     <option name="customSidebarHeight" value="22" />
+    <option name="treeFontSize" value="14" />
     <option name="tabFontSize" value="14" />
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="2" />
