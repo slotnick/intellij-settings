@@ -4,6 +4,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Meslo LG M for Powerline" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
